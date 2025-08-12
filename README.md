@@ -1,4 +1,4 @@
-# Movie App
+# Movie App 🎭🎬
 
 - Küçük bir front-end tasarım projesidir.
 
